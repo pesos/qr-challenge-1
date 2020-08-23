@@ -1,2 +1,2 @@
-var a = document.getElementByTagName("body")[0];
-a.style.background-color = "aquamarine";
+var a = document.getElementsByTagName("body")[0];
+a.style.backgroundColor = "aquamarine";
